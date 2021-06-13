@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void main(){
-	char a[20] = "Indresh1312321";
+	char a[20] = "Indresh";
 	char c[20];
 	printf("Enter the key:");
 	scanf("%s", &c);
